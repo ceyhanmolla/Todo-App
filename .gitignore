@@ -3,3 +3,7 @@ progress.md
 security.md
 optimizations.md
 MASTER_INSTRUCTIONS.md
+
+# Ignore all hidden files and folders
+.*
+!.gitignore
