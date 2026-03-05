@@ -129,8 +129,6 @@ See [optimizations.md](optimizations.md) for detailed performance analysis.
 
 ![App Screenshot](Ekran Alıntısı.PNG)
 
-*Replace `screenshot.png` with a real capture of the application for visual reference.*
-
 ## �💾 Data Storage
 
 Tasks are stored in browser `localStorage` under the key `modernTodoApp_todos`. 
