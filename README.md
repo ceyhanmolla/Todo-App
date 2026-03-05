@@ -127,7 +127,7 @@ See [optimizations.md](optimizations.md) for detailed performance analysis.
 
 ## �️ Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Ekran Alıntısı.PNG)
 
 *Replace `screenshot.png` with a real capture of the application for visual reference.*
 
